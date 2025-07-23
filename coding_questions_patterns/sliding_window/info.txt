@@ -1,0 +1,14 @@
+
+
+
+# How to find if given problem sliding window type : 
+
+
+- check in given data structure is linear one (araay/string)
+
+- constraints give like subarray/substring/longest subarray/longest substring/max/min
+
+- if u can use two pointers like start and end 
+
+- winbdow size is give as k for fixed or vaiable 
+
